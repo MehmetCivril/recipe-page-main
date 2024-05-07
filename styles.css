@@ -85,3 +85,6 @@ td {
 .table-red {
   color: hsl(14, 45%, 36%);
 }
+.omelette-nutrition__tr {
+  border-bottom: hidden;
+}
